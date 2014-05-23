@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.5">
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Bejelentkezes.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Feladat.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Fomenu.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas1_2_3.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\package-info.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\HelyiErtek.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\package-info.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\SzamNev.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\SzamNevek.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\package-info.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\ProgramManager.java">
+</file>
+<file name="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java">
+<error line="108" column="173" severity="error" message="Expected @throws tag for &apos;IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="50" severity="error" message="Expected @param tag for &apos;xml&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="62" severity="error" message="Expected @throws tag for &apos;ParserConfigurationException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="92" severity="error" message="Expected @throws tag for &apos;SAXException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="106" severity="error" message="Expected @throws tag for &apos;IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="119" severity="error" message="Expected @throws tag for &apos;TransformerConfigurationException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="395" column="154" severity="error" message="Expected @throws tag for &apos;TransformerException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.0.2" timestamp="2014-05-23T23:12:38.950">
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Bejelentkezes.java">
+<violation beginline="106" endline="106" begincolumn="73" endcolumn="75" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Bejelentkezes" method="jLoginButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="121" endline="121" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Bejelentkezes" method="jExitButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Feladat.java">
+<violation beginline="80" endline="82" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic" package="my.EgeszSzamokMagyarul" class="Feladat" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="80" endline="82" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic" package="my.EgeszSzamokMagyarul" class="Feladat" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Fomenu.java">
+<violation beginline="16" endline="16" begincolumn="29" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="16" endline="16" begincolumn="29" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="16" endline="16" begincolumn="29" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="39" endline="39" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="39" endline="39" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="39" endline="39" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="40" endline="40" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="40" endline="40" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="40" endline="40" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="42" endline="42" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="42" endline="42" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="42" endline="42" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="280" endline="280" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExitButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="280" endline="280" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExitButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="280" endline="280" begincolumn="72" endcolumn="74" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExitButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="290" endline="290" begincolumn="78" endcolumn="80" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExerciseGoButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="290" endline="290" begincolumn="78" endcolumn="80" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExerciseGoButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="290" endline="290" begincolumn="78" endcolumn="80" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jExerciseGoButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="326" endline="326" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="326" endline="326" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="326" endline="326" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="340" endline="340" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="340" endline="340" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="340" endline="340" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="354" endline="354" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="354" endline="354" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="354" endline="354" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jRadioButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="368" endline="368" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="368" endline="368" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="368" endline="368" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="381" endline="381" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner2StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="381" endline="381" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner2StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="381" endline="381" begincolumn="70" endcolumn="72" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jSpinner2StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="396" endline="396" begincolumn="75" endcolumn="77" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="396" endline="396" begincolumn="75" endcolumn="77" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="396" endline="396" begincolumn="75" endcolumn="77" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="409" endline="409" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jCheckBox1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="409" endline="409" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jCheckBox1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="409" endline="409" begincolumn="71" endcolumn="73" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jCheckBox1StateChanged" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="421" endline="421" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="formWindowActivated" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="421" endline="421" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="formWindowActivated" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="421" endline="421" begincolumn="65" endcolumn="67" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="formWindowActivated" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="433" endline="433" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jLogoutButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="433" endline="433" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jLogoutButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="433" endline="433" begincolumn="74" endcolumn="76" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Fomenu" method="jLogoutButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="481" endline="481" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="481" endline="481" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="481" endline="481" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="485" endline="485" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="485" endline="485" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="485" endline="485" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="489" endline="489" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="489" endline="489" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+<violation beginline="489" endline="489" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Fomenu" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JRadioButton' due to existing import 'javax.swing.JRadioButton'
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java">
+<violation beginline="30" endline="30" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="30" endline="30" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="30" endline="30" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="30" endline="30" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="31" endline="31" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="31" endline="31" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="31" endline="31" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="31" endline="31" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="32" endline="32" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="32" endline="32" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="32" endline="32" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="32" endline="32" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="33" endline="33" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="33" endline="33" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="33" endline="33" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="33" endline="33" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="34" endline="34" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="34" endline="34" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="34" endline="34" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="34" endline="34" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="35" endline="35" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="35" endline="35" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="35" endline="35" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="35" endline="35" begincolumn="29" endcolumn="52" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="36" endline="36" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="36" endline="36" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="36" endline="36" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="36" endline="36" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="37" endline="37" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="37" endline="37" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="37" endline="37" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="37" endline="37" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="38" endline="38" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="38" endline="38" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="38" endline="38" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="38" endline="38" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="39" endline="39" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="39" endline="39" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="39" endline="39" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="39" endline="39" begincolumn="23" endcolumn="40" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="40" endline="40" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="40" endline="40" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="40" endline="40" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="40" endline="40" begincolumn="27" endcolumn="48" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="42" endline="42" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="42" endline="42" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="42" endline="42" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="42" endline="42" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="44" endline="44" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="44" endline="44" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="44" endline="44" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="44" endline="44" begincolumn="26" endcolumn="46" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="45" endline="45" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="45" endline="45" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="45" endline="45" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="45" endline="45" begincolumn="24" endcolumn="42" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="initComponents" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="171" endline="171" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="171" endline="171" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="171" endline="171" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="171" endline="171" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="182" endline="182" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="182" endline="182" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="182" endline="182" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="182" endline="182" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="196" endline="196" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton4ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="196" endline="196" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton4ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="196" endline="196" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton4ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="196" endline="196" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas" method="jButton4ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="321" endline="321" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="321" endline="321" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="321" endline="321" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="321" endline="321" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="325" endline="325" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="325" endline="325" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="325" endline="325" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="325" endline="325" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="329" endline="329" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="329" endline="329" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="329" endline="329" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="329" endline="329" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="333" endline="333" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="333" endline="333" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="333" endline="333" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="333" endline="333" begincolumn="13" endcolumn="31" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JButton' due to existing import 'javax.swing.JButton'
+</violation>
+<violation beginline="337" endline="337" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="337" endline="337" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="337" endline="337" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="337" endline="337" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="341" endline="341" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="341" endline="341" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="341" endline="341" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="341" endline="341" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="345" endline="345" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="345" endline="345" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="345" endline="345" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="345" endline="345" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="349" endline="349" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="349" endline="349" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="349" endline="349" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="349" endline="349" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="353" endline="353" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="353" endline="353" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="353" endline="353" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="353" endline="353" begincolumn="13" endcolumn="30" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JLabel' due to existing import 'javax.swing.JLabel'
+</violation>
+<violation beginline="357" endline="357" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="357" endline="357" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="357" endline="357" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="357" endline="357" begincolumn="13" endcolumn="36" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JProgressBar' due to existing import 'javax.swing.JProgressBar'
+</violation>
+<violation beginline="369" endline="369" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="369" endline="369" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="369" endline="369" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="369" endline="369" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="373" endline="373" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="373" endline="373" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="373" endline="373" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="373" endline="373" begincolumn="13" endcolumn="33" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextArea' due to existing import 'javax.swing.JTextArea'
+</violation>
+<violation beginline="377" endline="377" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="377" endline="377" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="377" endline="377" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="377" endline="377" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="381" endline="381" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="381" endline="381" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="381" endline="381" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+<violation beginline="381" endline="381" begincolumn="13" endcolumn="34" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JTextField' due to existing import 'javax.swing.JTextField'
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas1_2_3.java">
+<violation beginline="79" endline="79" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="79" endline="79" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="79" endline="79" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="79" endline="79" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="79" endline="79" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="79" endline="79" begincolumn="42" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.event.ActionEvent' due to existing import 'java.awt.event.ActionEvent'
+</violation>
+<violation beginline="79" endline="79" begincolumn="42" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.event.ActionEvent' due to existing import 'java.awt.event.ActionEvent'
+</violation>
+<violation beginline="79" endline="79" begincolumn="42" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.event.ActionEvent' due to existing import 'java.awt.event.ActionEvent'
+</violation>
+<violation beginline="79" endline="79" begincolumn="42" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.event.ActionEvent' due to existing import 'java.awt.event.ActionEvent'
+</violation>
+<violation beginline="79" endline="79" begincolumn="42" endcolumn="67" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Gyakorlas1_2_3" method="jButton2ActionPerformed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'java.awt.event.ActionEvent' due to existing import 'java.awt.event.ActionEvent'
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="20" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.io.File'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="26" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JFrame'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.swing.JOptionPane'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="14" endline="14" begincolumn="34" endcolumn="51" rule="UnnecessaryFullyQualifiedName" ruleset="Import Statements" package="my.EgeszSzamokMagyarul" class="Statisztika" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnnecessaryFullyQualifiedName" priority="4">
+Unnecessary use of fully qualified name 'javax.swing.JFrame' due to existing import 'javax.swing.JFrame'
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="298" endline="298" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton3ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="309" endline="309" begincolumn="69" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jButton1ActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+<violation beginline="319" endline="319" begincolumn="79" endcolumn="81" rule="UnusedFormalParameter" ruleset="Unused Code" package="my.EgeszSzamokMagyarul" class="Statisztika" method="jLoadStaticsButtonActionPerformed" variable="evt" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused method parameters such as 'evt'.
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\HelyiErtek.java">
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="121" endline="121" begincolumn="21" endcolumn="36" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="HelyiErtek" method="Helyi&#xc9;rt&#xe9;kekreDarabol&#xe1;s" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\Szamnevek\SzamNevek.java">
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="247" endline="247" begincolumn="29" endcolumn="95" rule="UselessParentheses" ruleset="Unnecessary" package="my.Szamnevek" class="SzamNevek" method="kereso" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\xml\ProgramManager.java">
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="227" endline="227" begincolumn="116" endcolumn="120" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="loadStaticsInXml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="280" endline="280" begincolumn="44" endcolumn="64" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="281" endline="281" begincolumn="46" endcolumn="67" rule="UselessParentheses" ruleset="Unnecessary" package="my.xml" class="ProgramManager" method="MoveToScreenCenter" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unnecessary.html#UselessParentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+<violation beginline="297" endline="297" begincolumn="13" endcolumn="13" rule="UnusedLocalVariable" ruleset="Unused Code" package="my.xml" class="ProgramManager" method="isNumber" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'd'.
+</violation>
+</file>
+<file name="G:\MK DOK NEW\Programoz&#xe1;s DE\Beadand&#xf3;k\Prog tech&amp;k&#xf6;rny\v&#xe9;gleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="31" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Level'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Import Statements" package="my.xml" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.logging.Logger'
+</violation>
+</file>
+</pmd>
