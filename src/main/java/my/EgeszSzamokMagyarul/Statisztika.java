@@ -6,6 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.SwingWorker;
 import my.xml.ProgramManager;
+import static my.xml.ProgramManager.getUserName;
 
 /**
  * Statisztika.
@@ -359,6 +360,7 @@ public class Statisztika extends javax.swing.JFrame {
                 } else {
                     Fomenu.fomenu.setVisible(true);
                     This.dispose();
+                    JOptionPane.showMessageDialog(new JFrame(), getUserName() + " felhasználónak még nics satisztika adata.", "Hiba", JOptionPane.ERROR_MESSAGE);
                     return null;
                 }
                 return null;
