@@ -1,5 +1,6 @@
 package my.EgeszSzamokMagyarul;
 
+import java.awt.event.ActionEvent;
 import java.io.File;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -48,7 +49,13 @@ public class Statisztika extends javax.swing.JFrame {
         jLoadStaticsButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Statisztika");
         setResizable(false);
+        addWindowListener(new java.awt.event.WindowAdapter() {
+            public void windowActivated(java.awt.event.WindowEvent evt) {
+                formWindowActivated(evt);
+            }
+        });
 
         jButton3.setBackground(new java.awt.Color(153, 153, 153));
         jButton3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
@@ -319,10 +326,13 @@ public class Statisztika extends javax.swing.JFrame {
     private void jLoadStaticsButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jLoadStaticsButtonActionPerformed
         final String default_ = "nincs";
         final Statisztika This = this;
+        
         SwingWorker<Void, Void> worker = new SwingWorker<Void, Void>() {
             @Override
             protected Void doInBackground() throws Exception {
-                if (ProgramManager.loadStaticsInXml()) {
+                boolean loadOk = ProgramManager.loadStaticsInXml();
+                
+                if (loadOk) {
                     if (ProgramManager.isNumber(ProgramManager.getT(0, 0))) {
                         if (Integer.valueOf(ProgramManager.getT(0, 0)) > 0) {
                             jLabel_A1.setText(ProgramManager.getT(0, 0) + " db.");
@@ -349,6 +359,7 @@ public class Statisztika extends javax.swing.JFrame {
                 } else {
                     Fomenu.fomenu.setVisible(true);
                     This.dispose();
+                    return null;
                 }
                 return null;
             }
@@ -357,6 +368,16 @@ public class Statisztika extends javax.swing.JFrame {
 
         worker.execute();
     }//GEN-LAST:event_jLoadStaticsButtonActionPerformed
+
+    /**
+     * Ablak aktiválásakor hivódik meg.
+     * Inicializál, és elíndítja az időzítőt. 
+     * 
+     * @param evt esemény 
+     */
+    private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
+        jLoadStaticsButtonActionPerformed(null);
+    }//GEN-LAST:event_formWindowActivated
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

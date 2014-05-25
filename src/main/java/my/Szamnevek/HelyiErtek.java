@@ -8,7 +8,7 @@ package my.Szamnevek;
 public class HelyiErtek {
 
     /**
-     * A program {@value #MaxSzám} -ig ismeri a számok magyar nyelvű leírását.
+     * A program szextillió-ig ismeri a számok magyar nyelvű leírását.
      */
     private static final double MaxSzám;
     

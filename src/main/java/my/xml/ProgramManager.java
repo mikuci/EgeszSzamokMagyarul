@@ -54,7 +54,7 @@ public class ProgramManager {
      * XML feldolgozó.
      */
     private static XMLProcessor xmlProcessor;
-    
+
     /**
      * Lekérdező metódus az aktuális felhasználó nevéhez.
      *
@@ -173,7 +173,7 @@ public class ProgramManager {
             JOptionPane.showMessageDialog(new JFrame(), "A program nem tudta betölteni a \"" + getUserName() + "\" felhasználó beállításait" + "\n" + e.getMessage(), "Hiba", JOptionPane.ERROR_MESSAGE);
             logger.error("A program nem tudta betölteni a \"" + getUserName() + "\" felhasználó beállításait");
             return;
-        }catch (Exception e) {
+        } catch (Exception e) {
             return;
         }
     }
@@ -195,8 +195,7 @@ public class ProgramManager {
             JOptionPane.showMessageDialog(new JFrame(), "A program nem tudta kimenteni a \"" + getUserName() + "\" felhasználó beállításait" + "\n" + e.getMessage(), "Hiba", JOptionPane.ERROR_MESSAGE);
             logger.error("A program nem tudta kimenteni a \"" + getUserName() + "\" felhasználó beállításait");
             return false;
-        }
-        catch (Exception e) {
+        } catch (Exception e) {
             return false;
         }
 
@@ -207,7 +206,7 @@ public class ProgramManager {
      * Betölt minden statisztikai adatot, az aktuális felhasználóról, egy xml
      * fájlból.
      *
-     * @return 
+     * @return
      * <ul>
      * <li>{@code true}, ha a mentés sikeres,</li>
      * <li>{@code false}, egyébként.</li>
@@ -216,29 +215,32 @@ public class ProgramManager {
      */
     public static boolean loadStaticsInXml() {
         boolean ok = false;
-        for (int i = 0; i < 2; i++) {
+        int feladatokSzama = 2;
+
+        for (int i = 0; i < feladatokSzama; i++) {
             for (int j = 0; j < 3; j++) {
                 t[i][j] = "";
             }
         }
 
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < feladatokSzama; i++) {
             try {
                 xmlProcessor = new XMLProcessor(XMLProcessor.XMLFile.STATICS, "Statisztika", "id", String.valueOf((i + 1)));
                 t[i][0] = xmlProcessor.loadXmlvalueByAttribute("feladatok");
                 t[i][1] = xmlProcessor.loadXmlvalueByAttribute("helyes");
                 t[i][2] = xmlProcessor.loadXmlvalueByAttribute("idő");
-                
+
                 ok = true;
             } catch (ParserConfigurationException | SAXException | IOException e) {
-                logger.error("A program nem tudta betölteni a \"" + userName + "\" felhasználó statisztikai adatait");
-                JOptionPane.showMessageDialog(new JFrame(), "A program nem tudta betölteni a \"" + userName + "\" felhasználó statisztikai adatait" + "\n" + e.getMessage(), "Hiba", JOptionPane.ERROR_MESSAGE);
-            }catch (Exception e) {
-                logger.error("A program nem tudta betölteni a \"" + userName + "\" felhasználó statisztikai adatait");
-                return false;
+                logger.error("A program nem tudta betölteni a \"" + userName + "\" felhasználó " + (i + 1) + ".gyakorlat statisztikai adatait");
+                t[i][0] = t[i][1] = t[i][2] = "";
+            } catch (Exception e) {
+
+                logger.error("A program nem tudta betölteni a \"" + userName + "\" felhasználó " + (i + 1) + ".gyakorlat statisztikai adatait");
+                t[i][0] = t[i][1] = t[i][2] = "";
             }
         }
-        
+
         return ok;
     }
 
@@ -261,9 +263,9 @@ public class ProgramManager {
             xmlProcessor.saveToXmlWithStatics("Statisztika", jatszott, helyes, id);
         } catch (TransformerException | ParserConfigurationException | SAXException | IOException e) {
             JOptionPane.showMessageDialog(new JFrame(), "A program nem tudta kimenteni a \"" + getUserName() + "\" felhasználó beállításait" + "\n" + e.getMessage(), "Hiba", JOptionPane.ERROR_MESSAGE);
-            logger.error("A program nem tudta kimenteni a \"" + getUserName() + "\" felhasználó beállításait");
+            logger.error("A program nem tudta kimenteni a \"" + getUserName() + "\" felhasználó statisztikai adatait");
             return false;
-        }catch (Exception e) {
+        } catch (Exception e) {
             return false;
         }
 
@@ -303,7 +305,7 @@ public class ProgramManager {
         }
         return true;
     }
-    
+
     /**
      * A program indulásakor fut.
      *
@@ -353,6 +355,7 @@ public class ProgramManager {
             logger.info("A program leállált");
             System.exit(0);
         } else {
+            ProgramManager.setUserName("");
             logger.debug("\"" + getUserName() + "\"" + " felhasználó sikeresen kijelentkezett");
         }
     }

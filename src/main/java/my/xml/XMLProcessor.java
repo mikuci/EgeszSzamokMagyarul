@@ -55,12 +55,12 @@ public final class XMLProcessor {
     /**
      * Az xmlFile típusát adja(config., statics).
      */
-    private XMLFile xmlFile;
+    private final XMLFile xmlFile;
 
     /** 
      * A kerestt xml állománybeli elem szülője.
      */
-    private String parentElementName;
+    private final String parentElementName;
 
     /**
      * A keresett attributum neve.
@@ -95,13 +95,14 @@ public final class XMLProcessor {
     /**
      * Paraméterrel rendelkező konstruktor.
      *
-     * @param xmlFile yml típusa
+     * @param xmlFile xml típusa
      * @param parentElementName szülő elem
      * @param Attribute attributum neve
      * @param Value attributum értéke
      * @throws javax.xml.transform.TransformerException {@inheritDoc}
      * @throws javax.xml.parsers.ParserConfigurationException {@inheritDoc}
      * @throws org.xml.sax.SAXException {@inheritDoc}
+     * @throws java.io.IOException {@inheritDoc}
      * @see #xmlFile
      * @see #parentElementName
      */
@@ -388,9 +389,16 @@ public final class XMLProcessor {
         StreamResult result = new StreamResult(fXmlFile);
         TransformerFactory.newInstance().newTransformer().transform(source, result);
     }
-
+    
     /**
      * Ha nem létezik az xml file, akkor létrehozza.
+     * 
+     * @param xml cml fájl típusa
+     * @throws ParserConfigurationException {@inheritDoc} 
+     * @throws SAXException {@inheritDoc}
+     * @throws IOException {@inheritDoc}
+     * @throws TransformerConfigurationException {@inheritDoc}
+     * @throws TransformerException  {@inheritDoc}
      */
     private static void createDefaultXML(XMLFile xml) throws ParserConfigurationException, SAXException, IOException, TransformerConfigurationException, TransformerException {
         File fXmlFile = null;

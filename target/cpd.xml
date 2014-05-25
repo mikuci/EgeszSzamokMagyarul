@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pmd-cpd>
    <duplication lines="18" tokens="137">
-      <file line="334"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
-      <file line="367"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
+      <file line="335"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
+      <file line="368"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
       <codefragment><![CDATA[                        Element staff = doc.createElement("Gyakorlás");
                         staff2.appendChild(staff);
                         Attr attr = doc.createAttribute("id");
@@ -25,10 +25,10 @@
                         staff.appendChild(elem);]]></codefragment>
    </duplication>
    <duplication lines="16" tokens="112">
-      <file line="259"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
-      <file line="411"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
+      <file line="260"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
+      <file line="419"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\xml\XMLProcessor.java"/>
       <codefragment><![CDATA[            staff.setAttribute("userName", ProgramManager.getUserName());
             rootElement.appendChild(staff);
 
@@ -46,30 +46,14 @@
             staff.appendChild(elem);
         }]]></codefragment>
    </duplication>
-   <duplication lines="12" tokens="103">
+   <duplication lines="14" tokens="108">
+      <file line="64"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java"/>
       <file line="56"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java"/>
-      <file line="62"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java"/>
-      <codefragment><![CDATA[        getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jButton1.setBackground(new java.awt.Color(153, 153, 153));
-        jButton1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jButton1.setForeground(new java.awt.Color(51, 0, 204));
-        jButton1.setText("Kilépés");
-        jButton1.setName("jButton1"); // NOI18N
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java"/>
+      <codefragment><![CDATA[                jButton1ActionPerformed(evt);
             }
-        });]]></codefragment>
-   </duplication>
-   <duplication lines="12" tokens="103">
-      <file line="68"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java"/>
-      <file line="51"
-            path="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java"/>
-      <codefragment><![CDATA[        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(437, 206, 114, -1));
+        });
 
         jButton3.setBackground(new java.awt.Color(153, 153, 153));
         jButton3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
@@ -79,6 +63,24 @@
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
+            }
+        });]]></codefragment>
+   </duplication>
+   <duplication lines="12" tokens="103">
+      <file line="55"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Gyakorlas.java"/>
+      <file line="69"
+            path="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\src\main\java\my\EgeszSzamokMagyarul\Statisztika.java"/>
+      <codefragment><![CDATA[        setResizable(false);
+
+        jButton1.setBackground(new java.awt.Color(153, 153, 153));
+        jButton1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        jButton1.setForeground(new java.awt.Color(51, 0, 204));
+        jButton1.setText("Kilépés");
+        jButton1.setName("jButton1"); // NOI18N
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
             }
         });]]></codefragment>
    </duplication>

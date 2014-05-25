@@ -1,26 +1,13 @@
 package my.Szamnevek;
 
-import org.junit.*;
+import org.junit.Test;
 import static org.junit.Assert.*;
 
+/**
+ *
+ * @author Mikuci
+ */
 public class HelyiErtekTest {
-
-    @BeforeClass
-    public static void setUpClass() throws Exception {
-    }
-
-    @AfterClass
-    public static void tearDownClass() throws Exception {
-    }
-
-    @Before
-    public void setUp() throws Exception {
-    }
-
-    @After
-    public void tearDown() throws Exception {
-    }
-
     private void assertArrayEqualsBool(boolean[] A, boolean[] B) {
         int n = Math.min(A.length, B.length);
         for(int i = 0; i < n; i++)
@@ -31,7 +18,7 @@ public class HelyiErtekTest {
      * "getHelyiÉrtékek" metódus tesztelése. 
      */
     @Test
-    public void testGetHelyiÉrtékek() {
+    public void testGetHelyiErtekek() {
         HelyiErtek H;
         H = new HelyiErtek(5000);
         assertArrayEquals(new int[]{ 0, 0, 0, 5 }, H.getHelyiÉrtékek());
@@ -71,7 +58,7 @@ public class HelyiErtekTest {
      * "getUtolsóSzámHelyiÉrtéke" metódus tesztelése. 
      */
     @Test
-    public void testGetUtolsóSzámHelyiÉrtéke() {
+    public void testGetUtolsoSzamHelyiErteke() {
         HelyiErtek H;
         H = new HelyiErtek(5000);
         assertEquals(3, H.getUtolsóSzámHelyiÉrtéke());
@@ -91,7 +78,7 @@ public class HelyiErtekTest {
      * "getUtolsóASajátHelyiÉrtékén" metódus tesztelése. 
      */
     @Test
-    public void testGetUtolsóASajátHelyiÉrtékén() {
+    public void testGetUtolsoASajatHelyiErteken() {
         HelyiErtek H;
         H = new HelyiErtek(5000);
         assertArrayEqualsBool(new boolean[]{false, false, false, true}, H.getUtolsóASajátHelyiÉrtékén());
@@ -108,11 +95,10 @@ public class HelyiErtekTest {
     }
 
     /**
-     * "getMaxSzám" metódus tesztelése. 
+     * "getMaxSzam" metódus tesztelése. 
      */
     @Test
-    public void testGetMaxSzám() {
+    public void testGetMaxSzam() {
         assertNotNull(HelyiErtek.getMaxSzám());
     }
-
 }

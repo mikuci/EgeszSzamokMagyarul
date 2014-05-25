@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.05" errors="0" skipped="0" tests="2" name="my.EgeszSzamokMagyarul.FeladatTest">
+<testsuite failures="0" time="0.259" errors="0" skipped="0" tests="1" name="my.EgeszSzamokMagyarul.FeladatTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_25\jre\bin"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul"/>
+    <property name="user.dir" value="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul"/>
     <property name="java.runtime.version" value="1.7.0_25-b17"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_25\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8"/>
-    <property name="net.sourceforge.cobertura.datafile" value="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\target\cobertura\cobertura.ser"/>
+    <property name="net.sourceforge.cobertura.datafile" value="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\target\cobertura\cobertura.ser"/>
     <property name="classworlds.conf" value="G:\OPRENDSZER\win8(new)\Program Files\maven\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;g:\oprendszer\win8(new)\Program Files\ImageMagick-6.8.8-Q16;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;g:\Program Files (x86)\CollabNet;g:\oprendszer\win8(new)\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;g:\oprendszer\win8(new)\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;G:\OPRENDSZER\win8(new)\Program Files\apache-ant\bin;G:\OPRENDSZER\win8(new)\Program Files (x86)\Java\jre7\bin;G:\OPRENDSZER\win8(new)\Program Files (x86)\Subversion\iconv;C:\Program Files\Java\jdk1.7.0_25\bin;G:\OPRENDSZER\win8(new)\Program Files\maven\bin;G:\OPRENDSZER\win8(new)\Program Files (x86)\svn\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;G:\OPRENDSZER\win8(new)\Program Files (x86)\Java\jre7\bin;G:\imagemagick\bin;g:\oprendszer\win8(new)\Program Files (x86)\Git\cmd;."/>
@@ -38,9 +38,10 @@
     <property name="user.timezone" value="Europe/Prague"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.7"/>
-    <property name="file.encoding" value="Cp1250"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="Mikuci"/>
-    <property name="java.class.path" value="G:\OPRENDSZER\win8(new)\Program Files\maven\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.class.path" value="G:\OPRENDSZER\win8(new)\Program Files\maven\boot\plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_25\jre"/>
@@ -58,10 +59,9 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="project.build.outputDirectory" value="G:\MK DOK NEW\Programozás DE\Beadandók\Prog tech&amp;körny\végleges\EgeszSzamokMagyarul\target\generated-classes\cobertura"/>
+    <property name="project.build.outputDirectory" value="C:\Users\Mikuci\Desktop\test\EgeszSzamokMagyarul\target\generated-classes\cobertura"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.001" classname="my.EgeszSzamokMagyarul.FeladatTest" name="testPontSz\u00E1m\u00EDt\u00E1s"/>
-  <testcase time="0" classname="my.EgeszSzamokMagyarul.FeladatTest" name="testExit"/>
+  <testcase time="0.259" classname="my.EgeszSzamokMagyarul.FeladatTest" name="testPontSzámítás"/>
 </testsuite>

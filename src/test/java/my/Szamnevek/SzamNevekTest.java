@@ -1,36 +1,18 @@
 package my.Szamnevek;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import static org.junit.Assert.*;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
+import static org.junit.Assert.*;
 
-
+/**
+ *
+ * @author Mikuci
+ */
 public class SzamNevekTest {
-
-    @BeforeClass
-    public static void setUpClass() throws Exception {
-    }
-
-    @AfterClass
-    public static void tearDownClass() throws Exception {
-    }
-
-    @Before
-    public void setUp() throws Exception {
-    }
-
-    @After
-    public void tearDown() throws Exception {
-    }
-
     /**
      * "getSzámnevek" metódus tesztelése. 
      */
     @Test
-    public void testGetSzámnevek() {
+    public void testGetSzamnevek() {
         assertEquals("nulla", SzamNevek.getSzamnevek()[0].getNév());
         assertEquals("egy", SzamNevek.getSzamnevek()[1].getNév());
         assertEquals(0, SzamNevek.getSzamnevek()[1].getHelyiÉrték());
@@ -45,7 +27,7 @@ public class SzamNevekTest {
      * "getSzámnevek_dik" metódus tesztelése. 
      */
     @Test
-    public void testGetSzámnevek_dik() {
+    public void testGetSzamnevek_dik() {
         assertEquals("nulladik", SzamNevek.getSzamnevek_dik()[0].getNév());
         assertEquals("egyedik", SzamNevek.getSzamnevek_dik()[1].getNév());
         assertEquals(0, SzamNevek.getSzamnevek_dik()[1].getHelyiÉrték());
@@ -76,12 +58,11 @@ public class SzamNevekTest {
     }
 
     /**
-     * "tizHatvany" metódus tesztelése. 
+     * "TízHatvány" metódus tesztelése. 
      */
     @Test
     public void testTizHatvany() {
         assertEquals(1000.0, new SzamNevek().tizHatvany(3), 0.0);
         assertEquals(100000.0, new SzamNevek().tizHatvany(5), 0.0);
     }
-
 }

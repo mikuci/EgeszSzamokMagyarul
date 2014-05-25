@@ -63,6 +63,24 @@ public class Feladat {
     private final int sorszam;
 
     /**
+     * Visszadja a szám, jatszott, helyes paraméterek értékét egy tömbben.
+     * 
+     * @return szám, jatszott, helyes paraméterek értéke
+     * @see #szám
+     * @see #jatszott
+     * @see #helyes
+     */
+    public int[] getStatus()
+    {
+        int[] t = new int[3];
+        t[0] = Integer.parseInt(szám);
+        t[1] = jatszott;
+        t[2] = helyes;
+        
+        return t;
+    }
+    
+    /**
      * Paraméteres konstruktor.
      * 
      * @param gyakorlas Gyakorlás

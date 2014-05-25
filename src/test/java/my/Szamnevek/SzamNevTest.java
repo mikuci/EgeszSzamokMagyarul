@@ -1,35 +1,19 @@
 package my.Szamnevek;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import static org.junit.Assert.*;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
+import static org.junit.Assert.*;
 
+/**
+ *
+ * @author Mikuci
+ */
 public class SzamNevTest {
-
-    @BeforeClass
-    public static void setUpClass() throws Exception {
-    }
-
-    @AfterClass
-    public static void tearDownClass() throws Exception {
-    }
-
-    @Before
-    public void setUp() throws Exception {
-    }
-
-    @After
-    public void tearDown() throws Exception {
-    }
-
+    
     /**
      * "getHelyiÉrték" metódus tesztelése. 
      */
     @Test
-    public void testGetHelyiÉrték() {
+    public void testGetHelyiErtek() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals(6, sz.getHelyiÉrték());
         sz = new SzamNev(0, 5, "öt");
@@ -42,7 +26,7 @@ public class SzamNevTest {
      * "getÉrtékTízHatványban" metódus tesztelése. 
      */
     @Test
-    public void testGetÉrtékTízHatványban() {
+    public void testGetErtekTizHatvanyban() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals(6, sz.getÉrtékTízHatványban());
         sz = new SzamNev(9, "milliárd");
@@ -53,7 +37,7 @@ public class SzamNevTest {
      * "getÉrték" metódus tesztelése. 
      */
     @Test
-    public void testGetÉrték() {
+    public void testGetErtek() {
         SzamNev sz = new SzamNev(0, 5, "öt");
         assertEquals(5, sz.getÉrték());
         sz = new SzamNev(0, 2, "két", "kettő");
@@ -64,7 +48,7 @@ public class SzamNevTest {
      * "getNév" metódus tesztelése. 
      */
     @Test
-    public void testGetNév() {
+    public void testGetNev() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals("millió", sz.getNév());
         sz = new SzamNev(0, 5, "öt");
@@ -77,7 +61,7 @@ public class SzamNevTest {
      * "getEgyedülÁllóNév" metódus tesztelése. 
      */
     @Test
-    public void testGetEgyedülÁllóNév() {
+    public void testGetEgyedulAlloNev() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals(null, sz.getEgyedülÁllóNév());
         sz = new SzamNev(0, 5, "öt");
@@ -90,7 +74,7 @@ public class SzamNevTest {
      * "isMásAzEgyedülÁllóNév" metódus tesztelése. 
      */
     @Test
-    public void testIsMásAzEgyedülÁllóNév() {
+    public void testIsMasAzEgyedulAlloNev() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals(false, sz.isMásAzEgyedülÁllóNév());
         sz = new SzamNev(0, 5, "öt");
@@ -103,7 +87,7 @@ public class SzamNevTest {
      * "isÉrtékTízHatványbanVan" metódus tesztelése. 
      */
     @Test
-    public void testIsÉrtékTízHatványbanVan() {
+    public void testIsErtekTizHatvanybanVan() {
         SzamNev sz = new SzamNev(6, "millió");
         assertEquals(true, sz.isÉrtékTízHatványbanVan());
         sz = new SzamNev(0, 5, "öt");
@@ -111,5 +95,4 @@ public class SzamNevTest {
         sz = new SzamNev(0, 2, "két", "kettő");
         assertEquals(false, sz.isÉrtékTízHatványbanVan());
     }
-
 }
